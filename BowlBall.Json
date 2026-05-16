@@ -1,35 +1,34 @@
 [
-  {
-    "id": "B001",
-    "manufacturer": "Storm",
-    "name": "Phaze II",
-    "coverstock": "Solid",
-    "core": "Symmetrical",
-    "hookLength": "Early",
-    "oilVolume": "Heavy",
-    "patternLength": "Long",
-    "laneCondition": "Oily"
-  },
-  {
-    "id": "B002",
-    "manufacturer": "Hammer",
-    "name": "Black Widow 3.0",
-    "coverstock": "Solid",
-    "core": "Asymmetrical",
-    "hookLength": "Medium",
-    "oilVolume": "Medium-Heavy",
-    "patternLength": "Medium",
-    "laneCondition": "Medium-Oily"
-  },
-  {
-    "id": "B003",
-    "manufacturer": "Brunswick",
-    "name": "Rhino",
-    "coverstock": "Pearl",
-    "core": "Symmetrical",
-    "hookLength": "Late",
-    "oilVolume": "Light",
-    "patternLength": "Short",
-    "laneCondition": "Dry"
-  }
+  { "id": "ST001", "manufacturer": "Storm", "name": "Phaze II", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Medium-Heavy", "patternLength": "Medium", "laneCondition": "Oily" },
+  { "id": "ST002", "manufacturer": "Storm", "name": "Hy-Road", "coverstock": "Hybrid", "core": "Symmetrical", "hookLength": "Medium", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  { "id": "ST003", "manufacturer": "Storm", "name": "Pitch Black", "coverstock": "Urethane", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Light", "patternLength": "Short", "laneCondition": "Dry" },
+  { "id": "ST004", "manufacturer": "Storm", "name": "Absolute", "coverstock": "Pearl", "core": "Asymmetrical", "hookLength": "Late", "oilVolume": "Medium-Heavy", "patternLength": "Long", "laneCondition": "Medium-Oily" },
+  { "id": "ST005", "manufacturer": "Storm", "name": "Ice Storm", "coverstock": "Plastic", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Light", "patternLength": "Short", "laneCondition": "Dry" },
+  
+  { "id": "HA001", "manufacturer": "Hammer", "name": "Black Widow 3.0", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Medium", "oilVolume": "Heavy", "patternLength": "Long", "laneCondition": "Oily" },
+  { "id": "HA002", "manufacturer": "Hammer", "name": "Purple Pearl", "coverstock": "Urethane", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Medium", "patternLength": "Short", "laneCondition": "Medium" },
+  { "id": "HA003", "manufacturer": "Hammer", "name": "Ocean Vibe", "coverstock": "Pearl", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Light", "patternLength": "Medium", "laneCondition": "Dry" },
+  { "id": "HA004", "manufacturer": "Hammer", "name": "Envy Tour", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Early", "oilVolume": "Heavy", "patternLength": "Long", "laneCondition": "Oily" },
+  
+  { "id": "RG001", "manufacturer": "Roto Grip", "name": "Gem", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Early", "oilVolume": "Heavy", "patternLength": "Long", "laneCondition": "Oily" },
+  { "id": "RG002", "manufacturer": "Roto Grip", "name": "Hustle RIP", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Medium", "oilVolume": "Light", "patternLength": "Short", "laneCondition": "Dry" },
+  { "id": "RG003", "manufacturer": "Roto Grip", "name": "Tour Dynamx", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  
+  { "id": "MO001", "manufacturer": "Motiv", "name": "Venom Shock", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Medium", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  { "id": "MO002", "manufacturer": "Motiv", "name": "Jackal Ghost", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Early", "oilVolume": "Heavy", "patternLength": "Long", "laneCondition": "Oily" },
+  { "id": "MO003", "manufacturer": "Motiv", "name": "Blue Coral Venom", "coverstock": "Hybrid", "core": "Asymmetrical", "hookLength": "Medium", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  
+  { "id": "BR001", "manufacturer": "Brunswick", "name": "Rhino", "coverstock": "Pearl", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Light", "patternLength": "Short", "laneCondition": "Dry" },
+  { "id": "BR002", "manufacturer": "Brunswick", "name": "Twist", "coverstock": "Pearl", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Light", "patternLength": "Short", "laneCondition": "Dry" },
+  { "id": "BR003", "manufacturer": "Brunswick", "name": "Mindset", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Early", "oilVolume": "Heavy", "patternLength": "Long", "laneCondition": "Oily" },
+  { "id": "BR004", "manufacturer": "Brunswick", "name": "TZone", "coverstock": "Plastic", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Light", "patternLength": "Short", "laneCondition": "Dry" },
+  
+  { "id": "GL001", "manufacturer": "900 Global", "name": "Zen Gold Label", "coverstock": "Pearl", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  { "id": "GL002", "manufacturer": "900 Global", "name": "Reality", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Early", "oilVolume": "Heavy", "patternLength": "Long", "laneCondition": "Oily" },
+  
+  { "id": "EB001", "manufacturer": "Ebonite", "name": "The One Remix", "coverstock": "Solid", "core": "Asymmetrical", "hookLength": "Medium", "oilVolume": "Medium-Heavy", "patternLength": "Medium", "laneCondition": "Medium-Oily" },
+  { "id": "EB002", "manufacturer": "Ebonite", "name": "Game Breaker 4", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  
+  { "id": "TR001", "manufacturer": "Track", "name": "Sensor", "coverstock": "Pearl", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
+  { "id": "TR002", "manufacturer": "Track", "name": "Stealth", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Medium-Heavy", "patternLength": "Medium", "laneCondition": "Medium-Oily" }
 ]
