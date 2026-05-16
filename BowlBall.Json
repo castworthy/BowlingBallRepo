@@ -1,0 +1,35 @@
+[
+  {
+    "id": "B001",
+    "manufacturer": "Storm",
+    "name": "Phaze II",
+    "coverstock": "Solid",
+    "core": "Symmetrical",
+    "hookLength": "Early",
+    "oilVolume": "Heavy",
+    "patternLength": "Long",
+    "laneCondition": "Oily"
+  },
+  {
+    "id": "B002",
+    "manufacturer": "Hammer",
+    "name": "Black Widow 3.0",
+    "coverstock": "Solid",
+    "core": "Asymmetrical",
+    "hookLength": "Medium",
+    "oilVolume": "Medium-Heavy",
+    "patternLength": "Medium",
+    "laneCondition": "Medium-Oily"
+  },
+  {
+    "id": "B003",
+    "manufacturer": "Brunswick",
+    "name": "Rhino",
+    "coverstock": "Pearl",
+    "core": "Symmetrical",
+    "hookLength": "Late",
+    "oilVolume": "Light",
+    "patternLength": "Short",
+    "laneCondition": "Dry"
+  }
+]
