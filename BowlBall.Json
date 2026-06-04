@@ -31,4 +31,155 @@
   
   { "id": "TR001", "manufacturer": "Track", "name": "Sensor", "coverstock": "Pearl", "core": "Symmetrical", "hookLength": "Late", "oilVolume": "Medium", "patternLength": "Medium", "laneCondition": "Medium" },
   { "id": "TR002", "manufacturer": "Track", "name": "Stealth", "coverstock": "Solid", "core": "Symmetrical", "hookLength": "Early", "oilVolume": "Medium-Heavy", "patternLength": "Medium", "laneCondition": "Medium-Oily" }
+
+{
+    "id": "A1B2C3D4-0001-5678-90AB-CDEF12345678",
+    "name": "Motiv Covert VIP ExJ",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0002-5678-90AB-CDEF12345678",
+    "name": "Storm Alpha Crux",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0003-5678-90AB-CDEF12345678",
+    "name": "Storm Level Up",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0004-5678-90AB-CDEF12345678",
+    "name": "Roto Grip Raging Bite",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0005-5678-90AB-CDEF12345678",
+    "name": "900 Global Perfect Reality",
+    "coverstock": "Hybrid",
+    "hookLength": "Medium"
+  },
+  {
+    "id": "A1B2C3D4-0006-5678-90AB-CDEF12345678",
+    "name": "Storm Code Crush",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0007-5678-90AB-CDEF12345678",
+    "name": "Columbia 300 X Twelve Black P",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0008-5678-90AB-CDEF12345678",
+    "name": "Ebonite Turbo X NU",
+    "coverstock": "Urethane",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0009-5678-90AB-CDEF12345678",
+    "name": "Hammer Raw Hammer Black/Grey",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0010-5678-90AB-CDEF12345678",
+    "name": "Hammer Raw Hammer Red/White/Purple",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0011-5678-90AB-CDEF12345678",
+    "name": "Hammer Spawn",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0012-5678-90AB-CDEF12345678",
+    "name": "Track Archive 2.0",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0013-5678-90AB-CDEF12345678",
+    "name": "Hammer Black Widow Toxin Pearl",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0014-5678-90AB-CDEF12345678",
+    "name": "Storm Monsoon",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0015-5678-90AB-CDEF12345678",
+    "name": "Storm Rocket A.I.",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0016-5678-90AB-CDEF12345678",
+    "name": "Motiv Gear Mark",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0017-5678-90AB-CDEF12345678",
+    "name": "Storm Ghost Lock SE",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0018-5678-90AB-CDEF12345678",
+    "name": "Motiv Venom Hysteria",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0019-5678-90AB-CDEF12345678",
+    "name": "Brunswick Strategy",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0020-5678-90AB-CDEF12345678",
+    "name": "Radical Revenge Pearl",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0021-5678-90AB-CDEF12345678",
+    "name": "Radical Revenge Solid",
+    "coverstock": "Solid",
+    "hookLength": "Early"
+  },
+  {
+    "id": "A1B2C3D4-0022-5678-90AB-CDEF12345678",
+    "name": "Track Kinetic Sapphire Ice",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0023-5678-90AB-CDEF12345678",
+    "name": "Radical Double Trouble",
+    "coverstock": "Pearl",
+    "hookLength": "Late"
+  },
+  {
+    "id": "A1B2C3D4-0024-5678-90AB-CDEF12345678",
+    "name": "Ebonite Game Breaker 5 Hybrid",
+    "coverstock": "Hybrid",
+    "hookLength": "Medium"
+  },
+  {
+    "id": "A1B2C3D4-0025-5678-90AB-CDEF12345678",
+    "name": "Hammer Full Effect",
+    "coverstock": "Hybrid",
+    "hookLength": "Medium"
+  }
 ]
